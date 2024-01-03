@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1>Hello I'm Timothy!</h1>
+<p>Dedicated and independent professional with a fervent commitment to effecting positive societal change. Driven to cultivate expertise across the Data Science spectrum, with a distinct emphasis on seamlessly intertwining technology and healthcare for a harmonious impact.</p>
+<br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=timooo-thy&label=Profile%20Views&color=3&icon=5&pretty=false" />
+</a>
 
-<!--
-**timooo-thy/timooo-thy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![timooo-thy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timooo-thy&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+## Tech Stack
+### Deployment/Hosting
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,cloudflare,gcp,vercel,heroku" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,js,html,css,bootstrap" />
+  </a>
+</p>
+
+### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,flask,js,python,cpp,c,java" />
+  </a>
+</p>
+
+### Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,planetscale,prisma" />
+  </a>
+</p>
+
+### Version Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+### ML/Deep Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+</p>
+
+
+
+
