@@ -18,7 +18,7 @@
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,js,html,css,bootstrap,figma" />
   </a>
 </p>
 
