@@ -32,7 +32,7 @@
 ### Database
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,planetscale,prisma" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,sqlitet" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ### ML/Deep Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
 
