@@ -5,8 +5,6 @@
   <img src="https://visitcount.itsvg.in/api?id=timooo-thy&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
 
-![timooo-thy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timooo-thy&show_icons=true&theme=transparent)
-
 ## Tech Stack
 ### Deployment/Hosting
 <p align="center">
