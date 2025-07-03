@@ -18,14 +18,14 @@
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,vuejs,nuxtjs,js,html,css,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,vuejs,nuxtjs,ts,figma" />
   </a>
 </p>
 
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,flask,js,python,cpp,c,java,fastapi" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,js,python,cpp,java,fastapi,go" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ### ML/Deep Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,r" />
+    <img src="https://skillicons.dev/icons?i=pytorch,r" />
   </a>
 </p>
 
